@@ -65,18 +65,8 @@ El código fuente de esta aplicación esta escrito por Bryan Aguilar (Desarrolla
     <td>Add new</td>
   </tr>
   <tr>
-    <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/bandnames-socket-app/blob/main/media/home.png?raw=true" width="70%"></td>
     <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/bandnames-socket-app/blob/main/media/add.png?raw=true" width="70%"></td>
+    <td align="center" valign="center"><img src="https://github.com/bryanAguilar001/bandnames-socket-app/blob/main/media/home.png?raw=true" width="70%"></td>
   </tr>
  </table>
 <br>
-
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
