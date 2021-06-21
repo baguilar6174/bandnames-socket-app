@@ -20,7 +20,7 @@ class SocketService with ChangeNotifier {
   void _initConfig() {
     // Dart client Socket.io.
     this._socket = IO.io(
-      'https://bands-app-socket-server.herokuapp.com/',
+      'https://url-server/',
       IO.OptionBuilder()
       .setTransports(['websocket']) // for Flutter or Dart VM
       .setExtraHeaders({'foo': 'bar'}) // optional
